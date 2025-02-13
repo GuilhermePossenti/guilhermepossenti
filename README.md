@@ -20,7 +20,4 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 
 
-# teste
-~~~ javascript
-console.log("Hello World!");
-~~~
+
