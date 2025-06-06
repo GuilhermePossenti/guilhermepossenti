@@ -1,5 +1,5 @@
 # Prazer me chamo Guilherme Possenti 
-<p align="center">Estudante de Ciências da Computação no Instituto Federal Catarinense Campos Videira. Atualmente trabalho como Tecnico de Redes no Grupo Superviza .
+<p align="center">Estudante de Ciências da Computação no Instituto Federal Catarinense Campos Videira. Atualmente trabalho no Grupo Superviza .
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia, para aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 
